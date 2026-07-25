@@ -1,4 +1,4 @@
-# Teclado USB Mac
+# Teclado USB `insys KY1-K211` adaptado para macOS.
 
 Layout, scripts e instaladores do teclado USB `insys KY1-K211` adaptado para macOS.
 
