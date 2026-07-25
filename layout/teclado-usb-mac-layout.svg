@@ -1,0 +1,261 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="720" viewBox="0 0 1700 720">
+  <defs>
+    <style>
+      .bg { fill: #f3f6fb; }
+      .title { font: 700 28px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #172033; }
+      .subtitle { font: 500 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #5c667a; }
+      .key { fill: #ffffff; stroke: #c8d0dd; stroke-width: 1.5; rx: 9; }
+      .keyText { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2937; text-anchor: middle; dominant-baseline: middle; }
+      .alphaText { font: 700 17px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2937; text-anchor: middle; dominant-baseline: middle; }
+      .spaceText { font: 700 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2937; text-anchor: middle; dominant-baseline: middle; }
+      .keyTop { font: 700 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2937; text-anchor: middle; dominant-baseline: middle; }
+      .keyMain { font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2937; text-anchor: middle; dominant-baseline: middle; }
+      .keyAlt { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #667085; text-anchor: end; dominant-baseline: middle; }
+      .smallText { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2937; text-anchor: middle; dominant-baseline: middle; }
+      .iconText { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI Symbol", sans-serif; fill: #1f2937; text-anchor: middle; dominant-baseline: middle; }
+      .modifierSymbol { font: 700 22px -apple-system, BlinkMacSystemFont, "Segoe UI Symbol", sans-serif; fill: #111827; text-anchor: middle; dominant-baseline: middle; }
+      .iconLabel { font: 600 10px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #4b5563; text-anchor: middle; dominant-baseline: middle; }
+      .fnKeyNumber { font: 700 9px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #4b5563; text-anchor: middle; dominant-baseline: middle; }
+      .functionIcon { fill: none; stroke: #1f2937; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+      .functionFill { fill: #1f2937; stroke: none; }
+      .globeLine { fill: none; stroke: #111827; stroke-width: 1.8; stroke-linecap: round; }
+      .keySeparator { stroke: #667085; stroke-width: 1.2; stroke-linecap: round; }
+      .cmd { fill: #dcebff; stroke: #4488dc; }
+      .opt { fill: #fff1d8; stroke: #e39b2d; }
+      .ctrl { fill: #e4f7e8; stroke: #45a866; }
+      .fn { fill: #ede7ff; stroke: #7a62d8; }
+      .media { fill: #eef3f8; stroke: #b8c3d2; }
+      .legendBox { fill: #ffffff; stroke: #d5dce8; rx: 12; }
+      .legendTitle { font: 700 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #172033; }
+      .legendText { font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #394150; }
+      .section { font: 700 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #667085; }
+      .brand { font: 800 28px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #172033; text-anchor: end; letter-spacing: .5px; }
+      .model { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #667085; text-anchor: end; }
+      .brandMark { font: 800 44px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #172033; text-anchor: middle; letter-spacing: .5px; }
+      .modelMark { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #667085; text-anchor: middle; }
+      .macAction { font: 700 9px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0b9f35; text-anchor: middle; dominant-baseline: middle; }
+      .copyright { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #667085; text-anchor: end; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1700" height="720"/>
+
+  <g transform="translate(48,68)">
+    <rect class="key media" x="0" y="0" width="62" height="48"/><text class="keyText" x="31" y="24">esc</text>
+    <rect class="key media" x="78" y="0" width="72" height="48"/>
+    <g transform="translate(114 16) scale(.78) translate(-114 -16)">
+      <circle class="functionIcon" cx="114" cy="16" r="3.2"/>
+      <path class="functionIcon" d="M114 8.5 V5.5 M114 26.5 V23.5 M106.5 16 H103.5 M124.5 16 H121.5 M108.7 10.7 L106.5 8.5 M121.5 23.5 L119.3 21.3 M119.3 10.7 L121.5 8.5 M106.5 23.5 L108.7 21.3"/>
+    </g>
+    <text class="fnKeyNumber" x="114" y="39">F1</text>
+
+    <rect class="key media" x="156" y="0" width="72" height="48"/>
+    <g transform="translate(192 16) scale(.78) translate(-192 -16)">
+      <circle class="functionIcon" cx="192" cy="16" r="4.5"/>
+      <path class="functionIcon" d="M192 6.5 V2.8 M192 29.2 V25.5 M182.8 16 H179.1 M204.9 16 H201.2 M185.5 9.5 L183 7 M201 25 L198.5 22.5 M198.5 9.5 L201 7 M183 25 L185.5 22.5"/>
+    </g>
+    <text class="fnKeyNumber" x="192" y="39">F2</text>
+
+    <rect class="key media" x="234" y="0" width="72" height="48"/>
+    <g transform="translate(270.5 18.5) scale(.78) translate(-270.5 -18.5)">
+      <rect class="functionIcon" x="258.5" y="9.5" width="10.5" height="7" rx="1.4"/>
+      <rect class="functionIcon" x="272" y="9.5" width="10.5" height="7" rx="1.4"/>
+      <rect class="functionIcon" x="258.5" y="20.5" width="10.5" height="7" rx="1.4"/>
+      <rect class="functionIcon" x="272" y="20.5" width="10.5" height="7" rx="1.4"/>
+    </g>
+    <text class="fnKeyNumber" x="270" y="39">F3</text>
+
+    <rect class="key media" x="312" y="0" width="72" height="48"/>
+    <g transform="translate(348 17) scale(.78) translate(-348 -17)">
+      <circle class="functionIcon" cx="344.5" cy="14.5" r="6.2"/>
+      <path class="functionIcon" d="M349.2 19.2 L357 27"/>
+    </g>
+    <text class="fnKeyNumber" x="348" y="39">F4</text>
+
+    <rect class="key media" x="400" y="0" width="72" height="48"/>
+    <g transform="translate(436 19) scale(.78) translate(-436 -19)">
+      <rect class="functionIcon" x="431" y="7" width="10" height="16" rx="5"/>
+      <path class="functionIcon" d="M426.5 17.5 C426.5 25.5 445.5 25.5 445.5 17.5 M436 25.5 V30.5 M430.5 30.5 H441.5"/>
+    </g>
+    <text class="fnKeyNumber" x="436" y="39">F5</text>
+
+    <rect class="key media" x="478" y="0" width="72" height="48"/>
+    <g transform="translate(522 18.5) scale(.78) translate(-522 -18.5)">
+      <path class="functionIcon" d="M521 7.5 C513.5 9.3 509.6 17 513.4 23.5 C517.4 30.3 526.7 29.8 530.5 23.2 C520.2 25.7 514.4 16.4 521 7.5 Z"/>
+    </g>
+    <text class="fnKeyNumber" x="514" y="39">F6</text>
+
+    <rect class="key media" x="556" y="0" width="72" height="48"/>
+    <g transform="translate(588 17) scale(.78) translate(-588 -17)">
+      <path class="functionFill" d="M601 9.5 L589 17 L601 24.5 Z M587 9.5 L575 17 L587 24.5 Z"/>
+    </g>
+    <text class="fnKeyNumber" x="592" y="39">F7</text>
+
+    <rect class="key media" x="634" y="0" width="72" height="48"/>
+    <g transform="translate(671 17) scale(.78) translate(-671 -17)">
+      <path class="functionFill" d="M660 9.5 L672 17 L660 24.5 Z M677 9.5 H681.5 V24.5 H677 Z"/>
+    </g>
+    <text class="fnKeyNumber" x="670" y="39">F8</text>
+
+    <rect class="key media" x="722" y="0" width="72" height="48"/>
+    <g transform="translate(760 17) scale(.78) translate(-760 -17)">
+      <path class="functionFill" d="M747 9.5 L759 17 L747 24.5 Z M761 9.5 L773 17 L761 24.5 Z"/>
+    </g>
+    <text class="fnKeyNumber" x="758" y="39">F9</text>
+
+    <rect class="key media" x="800" y="0" width="72" height="48"/>
+    <g transform="translate(834 17) scale(.78) translate(-834 -17)">
+      <path class="functionFill" d="M818 14 H824 L832 8.5 V25.5 L824 20 H818 Z"/>
+      <path class="functionIcon" d="M846 8.5 L825 27"/>
+    </g>
+    <text class="fnKeyNumber" x="836" y="39">F10</text>
+
+    <rect class="key media" x="878" y="0" width="72" height="48"/>
+    <g transform="translate(909 17) scale(.78) translate(-909 -17)">
+      <path class="functionFill" d="M898 14 H904 L912 8.5 V25.5 L904 20 H898 Z"/>
+      <path class="functionIcon" d="M920 13.5 C922.5 16 922.5 20 920 22.5"/>
+    </g>
+    <text class="fnKeyNumber" x="914" y="39">F11</text>
+
+    <rect class="key media" x="956" y="0" width="72" height="48"/>
+    <g transform="translate(992 17) scale(.78) translate(-992 -17)">
+      <path class="functionFill" d="M976 14 H982 L990 8.5 V25.5 L982 20 H976 Z"/>
+      <path class="functionIcon" d="M998 13.5 C1000.5 16 1000.5 20 998 22.5 M1004 10.8 C1008.5 14.8 1008.5 21.2 1004 25.2"/>
+    </g>
+    <text class="fnKeyNumber" x="992" y="39">F12</text>
+    <rect class="key media" x="1056" y="0" width="72" height="48"/><text class="smallText" x="1092" y="13">Prt Scr</text><line class="keySeparator" x1="1074" y1="23" x2="1110" y2="23"/><text class="smallText" x="1092" y="34">SysRq</text>
+    <rect class="key media" x="1134" y="0" width="72" height="48"/><text class="smallText" x="1170" y="12">Scroll</text><text class="smallText" x="1170" y="25">Lock</text><text class="macAction" x="1170" y="39">Brilho +</text>
+    <rect class="key media" x="1212" y="0" width="72" height="48"/><text class="smallText" x="1248" y="10">Pause</text><line class="keySeparator" x1="1231" y1="20" x2="1265" y2="20"/><text class="smallText" x="1248" y="30">Break</text><text class="macAction" x="1248" y="42">Brilho -</text>
+  </g>
+
+  <g transform="translate(48,170)">
+    <rect class="key" x="0" y="0" width="62" height="52"/><text class="keyTop" x="31" y="15">|</text><text class="keyMain" x="31" y="35">\</text>
+    <rect class="key" x="70" y="0" width="62" height="52"/><text class="keyTop" x="101" y="15">!</text><text class="keyMain" x="101" y="35">1</text>
+    <rect class="key" x="140" y="0" width="62" height="52"/><text class="keyTop" x="171" y="15">"</text><text class="keyMain" x="171" y="35">2</text><text class="keyAlt" x="194" y="36">@</text>
+    <rect class="key" x="210" y="0" width="62" height="52"/><text class="keyTop" x="241" y="15">#</text><text class="keyMain" x="241" y="35">3</text><text class="keyAlt" x="264" y="36">£</text>
+    <rect class="key" x="280" y="0" width="62" height="52"/><text class="keyTop" x="311" y="15">$</text><text class="keyMain" x="311" y="35">4</text><text class="keyAlt" x="334" y="36">§</text>
+    <rect class="key" x="350" y="0" width="62" height="52"/><text class="keyTop" x="381" y="15">%</text><text class="keyMain" x="381" y="35">5</text>
+    <rect class="key" x="420" y="0" width="62" height="52"/><text class="keyTop" x="451" y="15">&amp;</text><text class="keyMain" x="451" y="35">6</text>
+    <rect class="key" x="490" y="0" width="62" height="52"/><text class="keyTop" x="521" y="15">/</text><text class="keyMain" x="521" y="35">7</text><text class="keyAlt" x="544" y="36">{</text>
+    <rect class="key" x="560" y="0" width="62" height="52"/><text class="keyTop" x="591" y="15">(</text><text class="keyMain" x="591" y="35">8</text><text class="keyAlt" x="614" y="36">[</text>
+    <rect class="key" x="630" y="0" width="62" height="52"/><text class="keyTop" x="661" y="15">)</text><text class="keyMain" x="661" y="35">9</text><text class="keyAlt" x="684" y="36">]</text>
+    <rect class="key" x="700" y="0" width="62" height="52"/><text class="keyTop" x="731" y="15">=</text><text class="keyMain" x="731" y="35">0</text><text class="keyAlt" x="754" y="36">}</text>
+    <rect class="key" x="770" y="0" width="62" height="52"/><text class="keyTop" x="801" y="15">?</text><text class="keyMain" x="801" y="35">'</text>
+    <rect class="key" x="840" y="0" width="62" height="52"/><text class="keyTop" x="871" y="15">»</text><text class="keyMain" x="871" y="35">«</text>
+    <rect class="key" x="910" y="0" width="112" height="52"/><text class="iconText" x="966" y="22">⌫</text><text class="iconLabel" x="966" y="40">Backspace</text>
+
+    <rect class="key" x="0" y="62" width="86" height="52"/><text class="iconText" x="43" y="84">⇥</text><text class="iconLabel" x="43" y="103">Tab</text>
+    <rect class="key" x="94" y="62" width="62" height="52"/><text class="alphaText" x="125" y="88">Q</text>
+    <rect class="key" x="164" y="62" width="62" height="52"/><text class="alphaText" x="195" y="88">W</text>
+    <rect class="key" x="234" y="62" width="62" height="52"/><text class="alphaText" x="265" y="88">E</text><text class="keyAlt" x="288" y="100">€</text>
+    <rect class="key" x="304" y="62" width="62" height="52"/><text class="alphaText" x="335" y="88">R</text>
+    <rect class="key" x="374" y="62" width="62" height="52"/><text class="alphaText" x="405" y="88">T</text>
+    <rect class="key" x="444" y="62" width="62" height="52"/><text class="alphaText" x="475" y="88">Y</text>
+    <rect class="key" x="514" y="62" width="62" height="52"/><text class="alphaText" x="545" y="88">U</text>
+    <rect class="key" x="584" y="62" width="62" height="52"/><text class="alphaText" x="615" y="88">I</text>
+    <rect class="key" x="654" y="62" width="62" height="52"/><text class="alphaText" x="685" y="88">O</text>
+    <rect class="key" x="724" y="62" width="62" height="52"/><text class="alphaText" x="755" y="88">P</text>
+    <rect class="key" x="794" y="62" width="62" height="52"/><text class="keyTop" x="825" y="77">*</text><text class="keyMain" x="820" y="97">+</text><text class="keyAlt" x="849" y="98">¨</text>
+    <rect class="key" x="864" y="62" width="62" height="52"/><text class="keyTop" x="895" y="77">´</text><text class="keyMain" x="895" y="97">`</text>
+    <path class="key" d="M934 62 H1022 V176 H962 V124 H934 Z"/>
+    <text class="iconText" x="980" y="106">↩</text><text class="iconLabel" x="980" y="128">Enter</text>
+
+    <rect class="key" x="0" y="124" width="104" height="52"/><text class="iconText" x="52" y="146">⇪</text><text class="iconLabel" x="52" y="164">Caps Lock</text>
+    <rect class="key" x="112" y="124" width="62" height="52"/><text class="alphaText" x="143" y="150">A</text>
+    <rect class="key" x="182" y="124" width="62" height="52"/><text class="alphaText" x="213" y="150">S</text>
+    <rect class="key" x="252" y="124" width="62" height="52"/><text class="alphaText" x="283" y="150">D</text>
+    <rect class="key" x="322" y="124" width="62" height="52"/><text class="alphaText" x="353" y="150">F</text>
+    <rect class="key" x="392" y="124" width="62" height="52"/><text class="alphaText" x="423" y="150">G</text>
+    <rect class="key" x="462" y="124" width="62" height="52"/><text class="alphaText" x="493" y="150">H</text>
+    <rect class="key" x="532" y="124" width="62" height="52"/><text class="alphaText" x="563" y="150">J</text>
+    <rect class="key" x="602" y="124" width="62" height="52"/><text class="alphaText" x="633" y="150">K</text>
+    <rect class="key" x="672" y="124" width="62" height="52"/><text class="alphaText" x="703" y="150">L</text>
+    <rect class="key" x="742" y="124" width="62" height="52"/><text class="alphaText" x="773" y="150">Ç</text>
+    <rect class="key" x="812" y="124" width="62" height="52"/><text class="keyTop" x="843" y="139">ª</text><text class="keyMain" x="843" y="159">º</text>
+    <rect class="key" x="882" y="124" width="62" height="52"/><text class="keyTop" x="913" y="139">^</text><text class="keyMain" x="913" y="159">~</text>
+
+    <rect class="key" x="0" y="186" width="126" height="52"/><text class="iconText" x="63" y="208">⇧</text><text class="iconLabel" x="63" y="226">Shift</text>
+    <rect class="key" x="134" y="186" width="62" height="52"/><text class="keyText" x="165" y="212">&lt; &gt;</text>
+    <rect class="key" x="204" y="186" width="62" height="52"/><text class="alphaText" x="235" y="212">Z</text>
+    <rect class="key" x="274" y="186" width="62" height="52"/><text class="alphaText" x="305" y="212">X</text>
+    <rect class="key" x="344" y="186" width="62" height="52"/><text class="alphaText" x="375" y="212">C</text>
+    <rect class="key" x="414" y="186" width="62" height="52"/><text class="alphaText" x="445" y="212">V</text>
+    <rect class="key" x="484" y="186" width="62" height="52"/><text class="alphaText" x="515" y="212">B</text>
+    <rect class="key" x="554" y="186" width="62" height="52"/><text class="alphaText" x="585" y="212">N</text>
+    <rect class="key" x="624" y="186" width="62" height="52"/><text class="alphaText" x="655" y="212">M</text>
+    <rect class="key" x="694" y="186" width="62" height="52"/><text class="keyText" x="725" y="212">, ;</text>
+    <rect class="key" x="764" y="186" width="62" height="52"/><text class="keyText" x="795" y="212">. :</text>
+    <rect class="key" x="834" y="186" width="188" height="52"/><text class="iconText" x="928" y="208">⇧</text><text class="iconLabel" x="928" y="226">Shift</text>
+
+    <rect class="key cmd" x="0" y="248" width="110" height="58"/><text class="smallText" x="55" y="262">Ctrl</text><text class="modifierSymbol" x="55" y="281">⌘</text><text class="iconLabel" x="55" y="299">Command</text>
+    <rect class="key opt" x="118" y="248" width="110" height="58"/><text class="smallText" x="173" y="262">Windows</text><text class="modifierSymbol" x="173" y="281">⌥</text><text class="iconLabel" x="173" y="299">Option</text>
+    <rect class="key cmd" x="236" y="248" width="110" height="58"/><text class="smallText" x="291" y="262">Alt</text><text class="modifierSymbol" x="291" y="281">⌘</text><text class="iconLabel" x="291" y="299">Command</text>
+    <rect class="key" x="354" y="248" width="268" height="58"/><text class="spaceText" x="488" y="277">Espaço</text>
+    <rect class="key cmd" x="630" y="248" width="102" height="58"/><text class="smallText" x="681" y="262">AltGr</text><text class="modifierSymbol" x="681" y="281">⌘</text><text class="iconLabel" x="681" y="299">Command</text>
+    <rect class="key opt" x="740" y="248" width="102" height="58"/><text class="smallText" x="791" y="262">Windows</text><text class="modifierSymbol" x="791" y="281">⌥</text><text class="iconLabel" x="791" y="299">Option</text>
+    <rect class="key fn" x="850" y="248" width="54" height="58"/>
+    <text class="keyText" x="877" y="267">fn</text>
+    <g transform="translate(877,290)">
+      <circle class="globeLine" cx="0" cy="0" r="9"/>
+      <path class="globeLine" d="M-9 0 H9"/>
+      <path class="globeLine" d="M0 -9 C-4 -5 -4 5 0 9"/>
+      <path class="globeLine" d="M0 -9 C4 -5 4 5 0 9"/>
+    </g>
+    <rect class="key ctrl" x="912" y="248" width="110" height="58"/><text class="smallText" x="967" y="262">Ctrl</text><text class="modifierSymbol" x="967" y="281">⌃</text><text class="iconLabel" x="967" y="299">Control</text>
+  </g>
+
+  <g transform="translate(1100,170)">
+    <rect class="key" x="0" y="0" width="70" height="52"/><text class="keyText" x="35" y="26">Ins</text>
+    <rect class="key" x="78" y="0" width="70" height="52"/><text class="keyText" x="113" y="26">Home</text>
+    <rect class="key" x="156" y="0" width="70" height="52"/><text class="keyText" x="191" y="26">PgUp</text>
+    <rect class="key" x="0" y="62" width="70" height="52"/><text class="keyText" x="35" y="88">Del</text>
+    <rect class="key" x="78" y="62" width="70" height="52"/><text class="keyText" x="113" y="88">End</text>
+    <rect class="key" x="156" y="62" width="70" height="52"/><text class="keyText" x="191" y="88">PgDn</text>
+    <image x="49" y="124" width="128" height="61" preserveAspectRatio="xMidYMid meet" href="../assets/insys-logo.png"/>
+    <text class="modelMark" x="113" y="196">KY1-K211</text>
+    <rect class="key" x="78" y="206" width="70" height="52"/><text class="iconText" x="113" y="232">↑</text>
+    <rect class="key" x="0" y="268" width="70" height="52"/><text class="iconText" x="35" y="294">←</text>
+    <rect class="key" x="78" y="268" width="70" height="52"/><text class="iconText" x="113" y="294">↓</text>
+    <rect class="key" x="156" y="268" width="70" height="52"/><text class="iconText" x="191" y="294">→</text>
+  </g>
+
+  <g transform="translate(1354,170)">
+    <rect class="key" x="0" y="0" width="62" height="52"/><text class="smallText" x="31" y="20">Num</text><text class="smallText" x="31" y="35">Lock</text>
+    <rect class="key" x="70" y="0" width="62" height="52"/><text class="keyText" x="101" y="26">/</text>
+    <rect class="key" x="140" y="0" width="62" height="52"/><text class="keyText" x="171" y="26">*</text>
+    <rect class="key" x="210" y="0" width="62" height="52"/><text class="keyText" x="241" y="26">-</text>
+
+    <rect class="key" x="0" y="62" width="62" height="52"/><text class="keyMain" x="31" y="84">7</text><text class="iconLabel" x="31" y="101">Home</text>
+    <rect class="key" x="70" y="62" width="62" height="52"/><text class="keyMain" x="101" y="84">8</text><text class="iconLabel" x="101" y="101">↑</text>
+    <rect class="key" x="140" y="62" width="62" height="52"/><text class="keyMain" x="171" y="84">9</text><text class="iconLabel" x="171" y="101">PgUp</text>
+    <rect class="key" x="210" y="62" width="62" height="114"/><text class="keyText" x="241" y="119">+</text>
+
+    <rect class="key" x="0" y="124" width="62" height="52"/><text class="keyMain" x="31" y="146">4</text><text class="iconLabel" x="31" y="163">←</text>
+    <rect class="key" x="70" y="124" width="62" height="52"/><text class="keyMain" x="101" y="150">5</text>
+    <rect class="key" x="140" y="124" width="62" height="52"/><text class="keyMain" x="171" y="146">6</text><text class="iconLabel" x="171" y="163">→</text>
+
+    <rect class="key" x="0" y="186" width="62" height="52"/><text class="keyMain" x="31" y="208">1</text><text class="iconLabel" x="31" y="225">End</text>
+    <rect class="key" x="70" y="186" width="62" height="52"/><text class="keyMain" x="101" y="208">2</text><text class="iconLabel" x="101" y="225">↓</text>
+    <rect class="key" x="140" y="186" width="62" height="52"/><text class="keyMain" x="171" y="208">3</text><text class="iconLabel" x="171" y="225">PgDn</text>
+    <rect class="key" x="210" y="186" width="62" height="114"/><text class="keyText" x="241" y="243">Enter</text>
+
+    <rect class="key" x="0" y="248" width="132" height="52"/><text class="keyMain" x="66" y="270">0</text><text class="iconLabel" x="66" y="287">Ins</text>
+    <rect class="key" x="140" y="248" width="62" height="52"/><text class="keyMain" x="171" y="270">,</text><text class="iconLabel" x="171" y="287">Del</text>
+  </g>
+
+  <g transform="translate(48,610)">
+    <rect class="legendBox" x="0" y="0" width="1604" height="70"/>
+    <rect class="key cmd" x="20" y="18" width="34" height="34"/><text class="modifierSymbol" x="37" y="36">⌘</text><text class="legendText" x="72" y="40">Command</text>
+    <rect class="key opt" x="170" y="18" width="34" height="34"/><text class="modifierSymbol" x="187" y="36">⌥</text><text class="legendText" x="222" y="40">Option</text>
+    <rect class="key ctrl" x="305" y="18" width="34" height="34"/><text class="modifierSymbol" x="322" y="36">⌃</text><text class="legendText" x="357" y="40">Control</text>
+    <rect class="key fn" x="440" y="18" width="34" height="34"/>
+    <g transform="translate(457,35)">
+      <circle class="globeLine" cx="0" cy="0" r="9"/>
+      <path class="globeLine" d="M-9 0 H9"/>
+      <path class="globeLine" d="M0 -9 C-4 -5 -4 5 0 9"/>
+      <path class="globeLine" d="M0 -9 C4 -5 4 5 0 9"/>
+    </g>
+    <text class="legendText" x="493" y="40">fn</text>
+  </g>
+  <text class="copyright" x="1652" y="704">Copyright © 2026 Determinação LLC. Todos os direitos reservados.</text>
+</svg>
