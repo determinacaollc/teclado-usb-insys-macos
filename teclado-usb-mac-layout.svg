@@ -106,7 +106,6 @@
     <rect class="key media" x="800" y="0" width="72" height="48"/>
     <g transform="translate(834 17) scale(.78) translate(-834 -17)">
       <path class="functionFill" d="M818 14 H824 L832 8.5 V25.5 L824 20 H818 Z"/>
-      <path class="functionIcon" d="M846 8.5 L825 27"/>
     </g>
     <text class="fnKeyNumber" x="836" y="39">F10</text>
 

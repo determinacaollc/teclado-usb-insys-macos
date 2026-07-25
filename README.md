@@ -2,6 +2,8 @@
 
 Layout, scripts e instaladores do teclado USB `insys KY1-K211` adaptado para macOS.
 
+![Layout do teclado USB com teclas Mac](docs/assets/teclado-usb-mac-layout.svg)
+
 ## Estado Atual
 
 - Teclado-alvo: `Teclado USB` com `VendorID 0x1a2c` e `ProductID 0x2d23`.
@@ -9,6 +11,14 @@ Layout, scripts e instaladores do teclado USB `insys KY1-K211` adaptado para mac
 - Layout personalizado `pt_pt.keylayout` para manter acentuação portuguesa e `Option + E = €`.
 - F1 e F2 ficam reservados para o brilho do monitor Philips através da app `Brilho Philips Hotkeys`.
 - F3 a F12 usam funções de macOS/multimédia.
+
+## Em Que Consiste
+
+Este projeto adapta um teclado USB de layout Windows para uma utilização mais natural em macOS.
+
+O mapeamento principal troca teclas modificadoras para ficarem próximas da lógica do teclado Apple: `Ctrl`, `Windows`, `Alt`, `AltGr` e a tecla entre `Windows direito` e `Ctrl direito` passam a executar funções equivalentes a `Command`, `Option`, `Control` e `fn`, conforme o mapa abaixo.
+
+As teclas `F3` a `F12` ficam associadas a funções de sistema e multimédia. As regras são aplicadas com `hidutil` apenas ao teclado USB identificado por `VendorID 0x1a2c` e `ProductID 0x2d23`, para não alterar o teclado interno do Mac.
 
 ## Mapa Principal
 
