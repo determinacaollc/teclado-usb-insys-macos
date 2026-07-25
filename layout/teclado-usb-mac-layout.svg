@@ -191,8 +191,8 @@
     <rect class="key opt" x="118" y="248" width="110" height="58"/><text class="smallText" x="173" y="262">Windows</text><text class="modifierSymbol" x="173" y="281">⌥</text><text class="iconLabel" x="173" y="299">Option</text>
     <rect class="key cmd" x="236" y="248" width="110" height="58"/><text class="smallText" x="291" y="262">Alt</text><text class="modifierSymbol" x="291" y="281">⌘</text><text class="iconLabel" x="291" y="299">Command</text>
     <rect class="key" x="354" y="248" width="268" height="58"/><text class="spaceText" x="488" y="277">Espaço</text>
-    <rect class="key cmd" x="630" y="248" width="102" height="58"/><text class="smallText" x="681" y="262">AltGr</text><text class="modifierSymbol" x="681" y="281">⌘</text><text class="iconLabel" x="681" y="299">Command</text>
-    <rect class="key opt" x="740" y="248" width="102" height="58"/><text class="smallText" x="791" y="262">Windows</text><text class="modifierSymbol" x="791" y="281">⌥</text><text class="iconLabel" x="791" y="299">Option</text>
+    <rect class="key opt" x="630" y="248" width="102" height="58"/><text class="smallText" x="681" y="262">AltGr</text><text class="modifierSymbol" x="681" y="281">⌥</text><text class="iconLabel" x="681" y="299">Option</text>
+    <rect class="key cmd" x="740" y="248" width="102" height="58"/><text class="smallText" x="791" y="262">Windows</text><text class="modifierSymbol" x="791" y="281">⌘</text><text class="iconLabel" x="791" y="299">Command</text>
     <rect class="key fn" x="850" y="248" width="54" height="58"/>
     <text class="keyText" x="877" y="267">fn</text>
     <g transform="translate(877,290)">

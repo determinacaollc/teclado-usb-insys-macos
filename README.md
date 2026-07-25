@@ -14,13 +14,13 @@ Layout, scripts e instaladores do teclado USB `insys KY1-K211` adaptado para mac
 
 | Tecla física | Função no macOS |
 | --- | --- |
-| Ctrl esquerdo | Command |
-| Ctrl direito | Control |
-| Windows esquerdo | Option |
-| Windows direito | Option |
-| Alt esquerdo | Command |
-| AltGr | Command |
-| Tecla entre Windows direito e Ctrl direito | fn |
+| Ctrl | Command |
+| Ctrl | Control |
+| Windows | Option |
+| Windows | Command |
+| Alt | Command |
+| AltGr | Option |
+| Tecla entre Windows e Ctrl | fn |
 | F3 | Mission Control |
 | F4 | Spotlight / pesquisa |
 | F5 | Ditado |
