@@ -141,9 +141,9 @@
     <rect class="key" x="700" y="0" width="62" height="52"/><text class="keyTop" x="731" y="15">=</text><text class="keyMain" x="731" y="35">0</text><text class="keyAlt" x="754" y="36">}</text>
     <rect class="key" x="770" y="0" width="62" height="52"/><text class="keyTop" x="801" y="15">?</text><text class="keyMain" x="801" y="35">'</text>
     <rect class="key" x="840" y="0" width="62" height="52"/><text class="keyTop" x="871" y="15">»</text><text class="keyMain" x="871" y="35">«</text>
-    <rect class="key" x="910" y="0" width="112" height="52"/><text class="iconText" x="966" y="22">⌫</text><text class="iconLabel" x="966" y="40">Backspace</text>
+    <rect class="key" x="910" y="0" width="112" height="52"/><text class="iconText" x="966" y="22">⌫</text><text class="iconLabel" x="966" y="40">backspace</text>
 
-    <rect class="key" x="0" y="62" width="86" height="52"/><text class="iconText" x="43" y="84">⇥</text><text class="iconLabel" x="43" y="103">Tab</text>
+    <rect class="key" x="0" y="62" width="86" height="52"/><text class="iconText" x="43" y="84">⇥</text><text class="iconLabel" x="43" y="103">tab</text>
     <rect class="key" x="94" y="62" width="62" height="52"/><text class="alphaText" x="125" y="88">Q</text>
     <rect class="key" x="164" y="62" width="62" height="52"/><text class="alphaText" x="195" y="88">W</text>
     <rect class="key" x="234" y="62" width="62" height="52"/><text class="alphaText" x="265" y="88">E</text><text class="keyAlt" x="288" y="100">€</text>
@@ -157,9 +157,9 @@
     <rect class="key" x="794" y="62" width="62" height="52"/><text class="keyTop" x="825" y="77">*</text><text class="keyMain" x="820" y="97">+</text><text class="keyAlt" x="849" y="98">¨</text>
     <rect class="key" x="864" y="62" width="62" height="52"/><text class="keyTop" x="895" y="77">´</text><text class="keyMain" x="895" y="97">`</text>
     <path class="key" d="M934 62 H1022 V176 H962 V124 H934 Z"/>
-    <text class="iconText" x="980" y="106">↩</text><text class="iconLabel" x="980" y="128">Enter</text>
+    <text class="iconText" x="980" y="106">↩</text><text class="iconLabel" x="980" y="128">enter</text>
 
-    <rect class="key" x="0" y="124" width="104" height="52"/><text class="iconText" x="52" y="146">⇪</text><text class="iconLabel" x="52" y="164">Caps Lock</text>
+    <rect class="key" x="0" y="124" width="104" height="52"/><text class="iconText" x="52" y="146">⇪</text><text class="iconLabel" x="52" y="164">caps lock</text>
     <rect class="key" x="112" y="124" width="62" height="52"/><text class="alphaText" x="143" y="150">A</text>
     <rect class="key" x="182" y="124" width="62" height="52"/><text class="alphaText" x="213" y="150">S</text>
     <rect class="key" x="252" y="124" width="62" height="52"/><text class="alphaText" x="283" y="150">D</text>
@@ -173,7 +173,7 @@
     <rect class="key" x="812" y="124" width="62" height="52"/><text class="keyTop" x="843" y="139">ª</text><text class="keyMain" x="843" y="159">º</text>
     <rect class="key" x="882" y="124" width="62" height="52"/><text class="keyTop" x="913" y="139">^</text><text class="keyMain" x="913" y="159">~</text>
 
-    <rect class="key" x="0" y="186" width="126" height="52"/><text class="iconText" x="63" y="208">⇧</text><text class="iconLabel" x="63" y="226">Shift</text>
+    <rect class="key" x="0" y="186" width="126" height="52"/><text class="iconText" x="63" y="208">⇧</text><text class="iconLabel" x="63" y="226">shift</text>
     <rect class="key" x="134" y="186" width="62" height="52"/><text class="keyText" x="165" y="212">&lt; &gt;</text>
     <rect class="key" x="204" y="186" width="62" height="52"/><text class="alphaText" x="235" y="212">Z</text>
     <rect class="key" x="274" y="186" width="62" height="52"/><text class="alphaText" x="305" y="212">X</text>
@@ -184,14 +184,14 @@
     <rect class="key" x="624" y="186" width="62" height="52"/><text class="alphaText" x="655" y="212">M</text>
     <rect class="key" x="694" y="186" width="62" height="52"/><text class="keyText" x="725" y="212">, ;</text>
     <rect class="key" x="764" y="186" width="62" height="52"/><text class="keyText" x="795" y="212">. :</text>
-    <rect class="key" x="834" y="186" width="188" height="52"/><text class="iconText" x="928" y="208">⇧</text><text class="iconLabel" x="928" y="226">Shift</text>
+    <rect class="key" x="834" y="186" width="188" height="52"/><text class="iconText" x="928" y="208">⇧</text><text class="iconLabel" x="928" y="226">shift</text>
 
-    <rect class="key cmd" x="0" y="248" width="110" height="58"/><text class="smallText" x="55" y="262">Ctrl</text><text class="modifierSymbol" x="55" y="281">⌘</text><text class="iconLabel" x="55" y="299">Command</text>
-    <rect class="key opt" x="118" y="248" width="110" height="58"/><text class="smallText" x="173" y="262">Windows</text><text class="modifierSymbol" x="173" y="281">⌥</text><text class="iconLabel" x="173" y="299">Option</text>
-    <rect class="key cmd" x="236" y="248" width="110" height="58"/><text class="smallText" x="291" y="262">Alt</text><text class="modifierSymbol" x="291" y="281">⌘</text><text class="iconLabel" x="291" y="299">Command</text>
+    <rect class="key cmd" x="0" y="248" width="110" height="58"/><text class="smallText" x="55" y="262">Ctrl</text><text class="modifierSymbol" x="55" y="281">⌘</text><text class="iconLabel" x="55" y="299">command</text>
+    <rect class="key opt" x="118" y="248" width="110" height="58"/><text class="smallText" x="173" y="262">Windows</text><text class="modifierSymbol" x="173" y="281">⌥</text><text class="iconLabel" x="173" y="299">option</text>
+    <rect class="key cmd" x="236" y="248" width="110" height="58"/><text class="smallText" x="291" y="262">Alt</text><text class="modifierSymbol" x="291" y="281">⌘</text><text class="iconLabel" x="291" y="299">command</text>
     <rect class="key" x="354" y="248" width="268" height="58"/><text class="spaceText" x="488" y="277">espaço</text>
-    <rect class="key opt" x="630" y="248" width="102" height="58"/><text class="smallText" x="681" y="262">AltGr</text><text class="modifierSymbol" x="681" y="281">⌥</text><text class="iconLabel" x="681" y="299">Option</text>
-    <rect class="key cmd" x="740" y="248" width="102" height="58"/><text class="smallText" x="791" y="262">Windows</text><text class="modifierSymbol" x="791" y="281">⌘</text><text class="iconLabel" x="791" y="299">Command</text>
+    <rect class="key opt" x="630" y="248" width="102" height="58"/><text class="smallText" x="681" y="262">AltGr</text><text class="modifierSymbol" x="681" y="281">⌥</text><text class="iconLabel" x="681" y="299">option</text>
+    <rect class="key cmd" x="740" y="248" width="102" height="58"/><text class="smallText" x="791" y="262">Windows</text><text class="modifierSymbol" x="791" y="281">⌘</text><text class="iconLabel" x="791" y="299">command</text>
     <rect class="key fn" x="850" y="248" width="54" height="58"/>
     <text class="keyText" x="877" y="267">fn</text>
     <g transform="translate(877,290)">
@@ -200,7 +200,7 @@
       <path class="globeLine" d="M0 -9 C-4 -5 -4 5 0 9"/>
       <path class="globeLine" d="M0 -9 C4 -5 4 5 0 9"/>
     </g>
-    <rect class="key ctrl" x="912" y="248" width="110" height="58"/><text class="smallText" x="967" y="262">Ctrl</text><text class="modifierSymbol" x="967" y="281">⌃</text><text class="iconLabel" x="967" y="299">Control</text>
+    <rect class="key ctrl" x="912" y="248" width="110" height="58"/><text class="smallText" x="967" y="262">Ctrl</text><text class="modifierSymbol" x="967" y="281">⌃</text><text class="iconLabel" x="967" y="299">control</text>
   </g>
 
   <g transform="translate(1100,170)">
@@ -236,7 +236,7 @@
     <rect class="key" x="0" y="186" width="62" height="52"/><text class="keyMain" x="31" y="208">1</text><text class="iconLabel" x="31" y="225">End</text>
     <rect class="key" x="70" y="186" width="62" height="52"/><text class="keyMain" x="101" y="208">2</text><text class="iconLabel" x="101" y="225">↓</text>
     <rect class="key" x="140" y="186" width="62" height="52"/><text class="keyMain" x="171" y="208">3</text><text class="iconLabel" x="171" y="225">PgDn</text>
-    <rect class="key" x="210" y="186" width="62" height="114"/><text class="keyText" x="241" y="243">Enter</text>
+    <rect class="key" x="210" y="186" width="62" height="114"/><text class="keyText" x="241" y="243">enter</text>
 
     <rect class="key" x="0" y="248" width="132" height="52"/><text class="keyMain" x="66" y="270">0</text><text class="iconLabel" x="66" y="287">Ins</text>
     <rect class="key" x="140" y="248" width="62" height="52"/><text class="keyMain" x="171" y="270">,</text><text class="iconLabel" x="171" y="287">Del</text>
@@ -244,9 +244,9 @@
 
   <g transform="translate(48,610)">
     <rect class="legendBox" x="0" y="0" width="1604" height="70"/>
-    <rect class="key cmd" x="20" y="18" width="34" height="34"/><text class="modifierSymbol" x="37" y="36">⌘</text><text class="legendText" x="72" y="40">Command</text>
-    <rect class="key opt" x="170" y="18" width="34" height="34"/><text class="modifierSymbol" x="187" y="36">⌥</text><text class="legendText" x="222" y="40">Option</text>
-    <rect class="key ctrl" x="305" y="18" width="34" height="34"/><text class="modifierSymbol" x="322" y="36">⌃</text><text class="legendText" x="357" y="40">Control</text>
+    <rect class="key cmd" x="20" y="18" width="34" height="34"/><text class="modifierSymbol" x="37" y="36">⌘</text><text class="legendText" x="72" y="40">command</text>
+    <rect class="key opt" x="170" y="18" width="34" height="34"/><text class="modifierSymbol" x="187" y="36">⌥</text><text class="legendText" x="222" y="40">option</text>
+    <rect class="key ctrl" x="305" y="18" width="34" height="34"/><text class="modifierSymbol" x="322" y="36">⌃</text><text class="legendText" x="357" y="40">control</text>
     <rect class="key fn" x="440" y="18" width="34" height="34"/>
     <g transform="translate(457,35)">
       <circle class="globeLine" cx="0" cy="0" r="9"/>
