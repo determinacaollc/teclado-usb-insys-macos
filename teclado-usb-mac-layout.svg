@@ -187,7 +187,7 @@
     <rect class="key" x="834" y="186" width="188" height="52"/><text class="iconText" x="928" y="208">⇧</text><text class="iconLabel" x="928" y="226">shift</text>
 
     <rect class="key cmd" x="0" y="248" width="110" height="58"/><text class="smallText" x="55" y="262">Ctrl</text><text class="modifierSymbol" x="55" y="281">⌘</text><text class="iconLabel" x="55" y="299">command</text>
-    <rect class="key opt" x="118" y="248" width="110" height="58"/><text class="smallText" x="173" y="262">Windows</text><text class="modifierSymbol" x="173" y="281">⌥</text><text class="iconLabel" x="173" y="299">option</text>
+    <rect class="key ctrl" x="118" y="248" width="110" height="58"/><text class="smallText" x="173" y="262">Windows</text><text class="modifierSymbol" x="173" y="281">⌃</text><text class="iconLabel" x="173" y="299">control</text>
     <rect class="key cmd" x="236" y="248" width="110" height="58"/><text class="smallText" x="291" y="262">Alt</text><text class="modifierSymbol" x="291" y="281">⌘</text><text class="iconLabel" x="291" y="299">command</text>
     <rect class="key" x="354" y="248" width="268" height="58"/><text class="spaceText" x="488" y="277">espaço</text>
     <rect class="key opt" x="630" y="248" width="102" height="58"/><text class="smallText" x="681" y="262">AltGr</text><text class="modifierSymbol" x="681" y="281">⌥</text><text class="iconLabel" x="681" y="299">option</text>

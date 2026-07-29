@@ -26,7 +26,7 @@ As teclas `F3` a `F12` ficam associadas a funções de sistema e multimédia. As
 | --- | --- |
 | Ctrl esquerdo | command |
 | Ctrl direito | control |
-| Windows esquerdo | option |
+| Windows esquerdo | control |
 | Windows direito | command |
 | Alt | command |
 | AltGr | option |
